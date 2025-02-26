@@ -1,0 +1,9 @@
+flask
+flask-cors
+ultralytics==8.2.103
+roboflow
+adjustText
+pytesseract
+fuzzywuzzy
+python-Levenshtein
+
