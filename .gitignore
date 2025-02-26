@@ -1,0 +1,24 @@
+# Node.js (Frontend)
+node_modules/
+build/
+dist/
+.env
+.env.local
+npm-debug.log
+yarn-error.log
+
+# Python (Backend, if applicable)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+.env
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
